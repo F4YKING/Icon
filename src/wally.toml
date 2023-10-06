@@ -1,0 +1,17 @@
+[package]
+name = "f4yking/icon"
+description = "TopBarPlus by 1ForeverHD - Forked by f4yking"
+version = "1.0.0"
+
+license = "MIT"
+authors = ["1ForeverHD"]
+
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+
+exclude = ["**"]
+include = ["Icon", "Icon/*", "default.project.json", "wally.toml"]
+
+private = false
+
+[dependencies]

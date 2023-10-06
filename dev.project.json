@@ -1,0 +1,27 @@
+{
+  "name": "TopbarPlus",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+
+      "Icon": {
+        "$path": "src/Icon"
+      }
+    },
+
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+
+        "Client": {
+          "$path": "src/Client.client.lua"
+        }
+      }
+    }
+
+  }
+}
